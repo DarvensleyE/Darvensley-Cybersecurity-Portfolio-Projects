@@ -106,7 +106,7 @@ This build happened in four phases, each documented in detail:
 | **[1. Proxmox Setup](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/Proxmox-Setup.md)** | Hypervisor installation, initial network bridge, VM sizing considerations |
 | **[2. OPNsense Setup](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/ARCHITECTURE.md)** | Firewall installation, interface assignment, WAN/LAN config, DHCP, admin hardening |
 | **[3. Wazuh SIEM Setup](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/Wazuh-SIEM-Setup.md)** | SIEM installation, a failed-service diagnosis, and a live disk/LVM resize |
-| **[4. Connecting It All Together](./docs/04-connecting-it-together.md)** | Cabling, resolving a subnet mismatch, dual-homed management access, and verifying isolation |
+| **[4. Connecting It All Together](https://github.com/DarvensleyE/Projects/edit/main/Isolated%20SOC%20Home%20Lab/Documents/Connecting-it-Together.md)** | Cabling, resolving a subnet mismatch, dual-homed management access, and verifying isolation |
 
 Condensed quick-reference version of the whole build: **[SETUP.md](./SETUP.md)**
 
