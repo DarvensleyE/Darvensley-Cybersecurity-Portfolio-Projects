@@ -19,7 +19,7 @@
 
 ##  Table of Contents
 
-- [Objective](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/SETUP.md#troubleshooting)
+- [Objective](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#objective)
 - [Skills Learned](##-skills-learned)
 - [Tools & Technologies Used](##-tools--technologies-used)
 - [Network Architecture](##-network-architecture)
