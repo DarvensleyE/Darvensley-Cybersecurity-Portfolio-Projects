@@ -28,7 +28,7 @@ OPNsense LAN (re0) ── Switch ──┬── Proxmox
 ### Fix: Proxmox's static IP no longer matched the new subnet
 Proxmox had been statically configured on the home network before OPNsense existed. After cabling it into the new lab switch, it was unreachable — its address belonged to a different subnet than OPNsense's LAN.
 
-**Resolution (full detail in [Phase 1](./01-proxmox-setup.md)):**
+**Resolution (full detail in [Phase 1](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/Proxmox-Setup.md)):**
 1. Temporarily matched the management NIC to Proxmox's old subnet to reach it one last time.
 2. Reconfigured `vmbr0` to a static address on the new lab subnet (`192.168.50.246/24`, gateway `192.168.50.1`), chosen outside OPNsense's DHCP pool.
 3. Reached Proxmox going forward at its new address.
