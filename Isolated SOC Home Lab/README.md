@@ -21,7 +21,7 @@
 
 - [Objective](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#objective)
 - [Skills Learned](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#skills-learned)
-- [Tools & Technologies Used](##-tools--technologies-used)
+- [Tools & Technologies Used](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#tools--technologies-used)
 - [Network Architecture](##-network-architecture)
 - [Build Walkthrough](##-build-walkthrough)
 - [Challenges & Troubleshooting](##-challenges--troubleshooting)
