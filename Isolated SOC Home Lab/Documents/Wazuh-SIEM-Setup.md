@@ -69,4 +69,4 @@ Confirmed the dashboard was listening, then reached it at `https://<wazuh-vm-ip>
 Provisioning a SIEM VM's disk generously from the start (50GB+) avoids this failure entirely — but diagnosing it live, from service logs down to a disk-usage breakdown, down to a live LVM resize without reinstalling anything, was itself a valuable exercise in root-cause troubleshooting under a broken service.
 
 ## Next
-→ [Phase 4: Connecting It All Together](./04-connecting-it-together.md)
+→ [Phase 4: Connecting It All Together](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/Connecting-it-Together.md)
