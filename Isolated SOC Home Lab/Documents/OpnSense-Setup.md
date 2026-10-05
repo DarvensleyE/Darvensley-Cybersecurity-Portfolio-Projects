@@ -58,4 +58,4 @@ Set a strong root password under `System > Access > Users` before continuing.
 The single setting that prevented the most headaches: changing OPNsense's default LAN subnet away from `192.168.1.x` before touching anything else, since that's the range most home routers already use.
 
 ## Next
-→ [Phase 3: Wazuh SIEM Setup](./03-wazuh-siem-setup.md)
+→ [Phase 3: Wazuh SIEM Setup](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/Wazuh-SIEM-Setup.md)
