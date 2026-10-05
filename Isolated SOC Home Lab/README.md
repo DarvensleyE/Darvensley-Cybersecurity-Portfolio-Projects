@@ -26,7 +26,7 @@
 - [Build Walkthrough](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#build-walkthrough)
 - [Challenges & Troubleshooting](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#challenges--troubleshooting)
 - [Screenshots](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#screenshots)
-- [Key Takeaways]([##-key-takeaways](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#key-takeaways))
+- [Key Takeaways](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#key-takeaways))
 - [Roadmap](##-roadmap)
 - [Documentation](##-documentation)
 
