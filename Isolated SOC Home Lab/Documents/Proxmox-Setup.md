@@ -17,7 +17,7 @@ Installed Proxmox VE on a dedicated machine, separate from the OPNsense firewall
 Proxmox creates a default bridge, `vmbr0`, during installation, bound to the host's physical NIC. At this stage, `vmbr0` was configured on the home network, since OPNsense didn't exist yet in the topology — this gets revisited once the lab network is introduced.
 
 ### Planning VM sizing
-Before deploying Wazuh (see [Phase 3](./03-wazuh-siem-setup.md)), sized the VM with **50GB+ disk and 4GB+ RAM** as a baseline — Wazuh's indexer component (OpenSearch-based) is disk-intensive, and under-provisioning here causes real failures later.
+Before deploying Wazuh (see [Phase 3](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/Wazuh-SIEM-Setup.md), sized the VM with **50GB+ disk and 4GB+ RAM** as a baseline — Wazuh's indexer component (OpenSearch-based) is disk-intensive, and under-provisioning here causes real failures later.
 
 ## Key takeaway
 Proxmox itself was the easy part — a standard hypervisor install. The real complexity came later, when its networking had to be re-pointed at a new, isolated subnet once OPNsense was introduced (see [Phase 4](./04-connecting-it-together.md)).
