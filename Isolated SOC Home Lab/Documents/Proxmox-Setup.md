@@ -23,4 +23,4 @@ Before deploying Wazuh (see [Phase 3](./03-wazuh-siem-setup.md)), sized the VM w
 Proxmox itself was the easy part — a standard hypervisor install. The real complexity came later, when its networking had to be re-pointed at a new, isolated subnet once OPNsense was introduced (see [Phase 4](./04-connecting-it-together.md)).
 
 ## Next
-→ [Phase 2: OPNsense Setup](./02-opnsense-setup.md)
+→ [Phase 2: OPNsense Setup](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/OpnSense-Setup.md)
