@@ -137,7 +137,8 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 
 ##  Screenshots
 
-> Add your own screenshots here as you capture them — this section is the easiest way to make the repo instantly credible to someone skimming it. Suggested shots:
+> <img width="3439" height="1302" alt="Screenshot 2026-09-16 200430" src="https://github.com/user-attachments/assets/49eed837-29d9-4027-a5cc-07b4f8a13226" />
+
 > - OPNsense dashboard after initial setup
 > - Interface assignment / WAN-LAN configuration screen
 > - Kea DHCP configuration and active leases
