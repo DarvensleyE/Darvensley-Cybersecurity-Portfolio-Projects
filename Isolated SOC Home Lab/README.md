@@ -24,7 +24,7 @@
 - [Tools & Technologies Used](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#tools--technologies-used)
 - [Network Architecture](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#network-architecture)
 - [Build Walkthrough](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#build-walkthrough)
-- [Challenges & Troubleshooting](##-challenges--troubleshooting)
+- [Challenges & Troubleshooting](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#challenges--troubleshooting)
 - [Screenshots](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/README.md#screenshots)
 - [Key Takeaways](##-key-takeaways)
 - [Roadmap](##-roadmap)
