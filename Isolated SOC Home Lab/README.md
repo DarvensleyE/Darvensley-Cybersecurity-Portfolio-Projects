@@ -19,17 +19,16 @@
 
 ##  Table of Contents
 
-- [Objective](#-objective)
-- [Skills Learned](#-skills-learned)
-- [Tools & Technologies Used](#-tools--technologies-used)
-- [Network Architecture](#-network-architecture)
-- [Build Walkthrough](#-build-walkthrough)
-- [Challenges & Troubleshooting](#-challenges--troubleshooting)
-- [Screenshots](#-screenshots)
-- [Key Takeaways](#-key-takeaways)
-- [Roadmap](#-roadmap)
-- [Documentation](#-documentation)
-- [About Me](#-about-me)
+- [Objective](##-objective)
+- [Skills Learned](##-skills-learned)
+- [Tools & Technologies Used](##-tools--technologies-used)
+- [Network Architecture](##-network-architecture)
+- [Build Walkthrough](##-build-walkthrough)
+- [Challenges & Troubleshooting](##-challenges--troubleshooting)
+- [Screenshots](##-screenshots)
+- [Key Takeaways](##-key-takeaways)
+- [Roadmap](##-roadmap)
+- [Documentation](##-documentation)
 
 ---
 
