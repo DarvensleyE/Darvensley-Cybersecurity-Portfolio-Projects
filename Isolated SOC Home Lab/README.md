@@ -131,7 +131,7 @@ sudo resize2fs /dev/mapper/ubuntu--vg-ubuntu--lv
 ```
 **Lesson:** Size SIEM/indexer VMs generously from the start (50GB+ disk) — resizing live works, but sizing correctly up front avoids the outage entirely.
 
-Full troubleshooting reference, including commands for every scenario: **[SETUP.md → Troubleshooting](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/SETUP.md)**
+Full troubleshooting reference, including commands for every scenario: **[SETUP.md → Troubleshooting](https://github.com/DarvensleyE/Projects/blob/main/Isolated%20SOC%20Home%20Lab/SETUP.md#troubleshooting)**
 
 ---
 
