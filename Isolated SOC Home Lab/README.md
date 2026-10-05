@@ -187,8 +187,4 @@ Reference them in this README once added, e.g.:
 |---|---|
 | [`ARCHITECTURE.md`](./ARCHITECTURE.md) | Full network topology, hardware list, subnetting, and design rationale |
 | [`SETUP.md`](./SETUP.md) | Complete step-by-step build guide with every command used, plus troubleshooting |
-| [`docs/medium-article.md`](./docs/medium-article.md) | Narrative writeup of the build process |
-| [`docs/linkedin-post.md`](./docs/linkedin-post.md) | Short-form summary of the project |
-
----
 
