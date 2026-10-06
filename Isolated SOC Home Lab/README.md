@@ -135,7 +135,7 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 
 ---
 
-##  Screenshots
+##  [Screenshots] (https://github.com/DarvensleyE/Darvensley-Cybersecurity-Portfolio-Projects/blob/main/Isolated%20SOC%20Home%20Lab/Documents/Screenshots.md#screenshots)
 
 ---
 
