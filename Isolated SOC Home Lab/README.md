@@ -136,7 +136,7 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 ---
 
 ##  Screenshots
-> - OPNsense dashboard after initial setup
+> - OPNsense dashboard after initial setup 
 <img width="1720" height="1231" alt="Screenshot 2026-10-05 193726" src="https://github.com/user-attachments/assets/2d9459a3-50ff-4bfc-a7bc-40b352c323c7" />
 
 > - Firewall rules
@@ -155,22 +155,6 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 > - Wazuh dashboard home screen
 <img width="1736" height="1214" alt="Screenshot 2026-10-06 112815" src="https://github.com/user-attachments/assets/017990ba-e511-4df0-88b9-70b1cab1d748" />
 <img width="1744" height="826" alt="Screenshot 2026-10-06 112802" src="https://github.com/user-attachments/assets/b7617e64-9d7f-4822-bdd4-bdb3f24d26d7" />
-
-
-
-```
-docs/screenshots/
-├── opnsense-dashboard.png
-├── interface-assignment.png
-├── dhcp-leases.png
-├── proxmox-overview.png
-└── wazuh-dashboard.png
-```
-
-Reference them in this README once added, e.g.:
-```markdown
-![OPNsense Dashboard](./docs/screenshots/opnsense-dashboard.png)
-```
 
 ---
 
