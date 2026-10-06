@@ -147,7 +147,6 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 
 > - Kea DHCP configuration
 > - <img width="961" height="344" alt="Screenshot 2026-10-05 194317" src="https://github.com/user-attachments/assets/beaecb84-7f49-4489-a862-e9fae82e8337" />
-<img width="886" height="377" alt="Screenshot 2026-10-05 194305" src="https://github.com/user-attachments/assets/ece37613-108e-4ef2-bab9-c155f04f8969" />
 
 > - Proxmox node overview showing the Wazuh VM
 > - <img width="1756" height="1055" alt="Screenshot 2026-10-06 112916" src="https://github.com/user-attachments/assets/13a4a90e-9242-429a-aaf3-ae700e253dde" />
@@ -158,6 +157,7 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 <img width="1744" height="826" alt="Screenshot 2026-10-06 112802" src="https://github.com/user-attachments/assets/b7617e64-9d7f-4822-bdd4-bdb3f24d26d7" />
 
 > - Firewall rules page (`Firewall > Rules > LAN`)
+<img width="1430" height="522" alt="Screenshot 2026-10-06 112143" src="https://github.com/user-attachments/assets/0bd722e5-4384-4a61-8a26-208343e2182a" />
 
 ```
 docs/screenshots/
