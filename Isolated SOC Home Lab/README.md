@@ -139,6 +139,8 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 > - OPNsense dashboard after initial setup
 <img width="1720" height="1231" alt="Screenshot 2026-10-05 193726" src="https://github.com/user-attachments/assets/2d9459a3-50ff-4bfc-a7bc-40b352c323c7" />
 
+> - Firewall rules
+<img width="1430" height="522" alt="Screenshot 2026-10-06 112143" src="https://github.com/user-attachments/assets/0bd722e5-4384-4a61-8a26-208343e2182a" />
 
 > - Interface assignment / WAN-LAN configuration screen
 <img width="1475" height="428" alt="Screenshot 2026-10-06 113121" src="https://github.com/user-attachments/assets/b485db72-2ee6-4151-9329-35886ee2dd85" />
@@ -154,8 +156,7 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 <img width="1736" height="1214" alt="Screenshot 2026-10-06 112815" src="https://github.com/user-attachments/assets/017990ba-e511-4df0-88b9-70b1cab1d748" />
 <img width="1744" height="826" alt="Screenshot 2026-10-06 112802" src="https://github.com/user-attachments/assets/b7617e64-9d7f-4822-bdd4-bdb3f24d26d7" />
 
-> - Firewall rules
-<img width="1430" height="522" alt="Screenshot 2026-10-06 112143" src="https://github.com/user-attachments/assets/0bd722e5-4384-4a61-8a26-208343e2182a" />
+
 
 ```
 docs/screenshots/
