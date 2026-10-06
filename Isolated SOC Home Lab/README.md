@@ -138,15 +138,25 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 ##  Screenshots
 >Proxmox and OpnSense
 > <img width="3439" height="1302" alt="Screenshot 2026-09-16 200430" src="https://github.com/user-attachments/assets/49eed837-29d9-4027-a5cc-07b4f8a13226" />
+
 > - OPNsense dashboard after initial setup
 <img width="1720" height="1231" alt="Screenshot 2026-10-05 193726" src="https://github.com/user-attachments/assets/969258e9-e56d-4381-b396-562be215fe9a" />
+
 > - Interface assignment / WAN-LAN configuration screen
+> - <img width="1475" height="428" alt="Screenshot 2026-10-06 113121" src="https://github.com/user-attachments/assets/b485db72-2ee6-4151-9329-35886ee2dd85" />
+
 > - Kea DHCP configuration
 > - <img width="961" height="344" alt="Screenshot 2026-10-05 194317" src="https://github.com/user-attachments/assets/beaecb84-7f49-4489-a862-e9fae82e8337" />
 <img width="886" height="377" alt="Screenshot 2026-10-05 194305" src="https://github.com/user-attachments/assets/ece37613-108e-4ef2-bab9-c155f04f8969" />
 
 > - Proxmox node overview showing the Wazuh VM
+> - <img width="1756" height="1055" alt="Screenshot 2026-10-06 112916" src="https://github.com/user-attachments/assets/13a4a90e-9242-429a-aaf3-ae700e253dde" />
+<img width="1445" height="1025" alt="Screenshot 2026-10-06 112945" src="https://github.com/user-attachments/assets/73e0d4b7-0ad3-4d80-a70b-ecd3f32d5adc" />
+
 > - Wazuh dashboard home screen
+<img width="1736" height="1214" alt="Screenshot 2026-10-06 112815" src="https://github.com/user-attachments/assets/017990ba-e511-4df0-88b9-70b1cab1d748" />
+<img width="1744" height="826" alt="Screenshot 2026-10-06 112802" src="https://github.com/user-attachments/assets/b7617e64-9d7f-4822-bdd4-bdb3f24d26d7" />
+
 > - Firewall rules page (`Firewall > Rules > LAN`)
 
 ```
