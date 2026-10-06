@@ -136,13 +136,12 @@ Full troubleshooting reference, including commands for every scenario: **[SETUP.
 ---
 
 ##  Screenshots
-
+>Proxmox and OpnSense
 > <img width="3439" height="1302" alt="Screenshot 2026-09-16 200430" src="https://github.com/user-attachments/assets/49eed837-29d9-4027-a5cc-07b4f8a13226" />
-<img width="1720" height="1231" alt="Screenshot 2026-10-05 193726" src="https://github.com/user-attachments/assets/969258e9-e56d-4381-b396-562be215fe9a" />
-
 > - OPNsense dashboard after initial setup
+<img width="1720" height="1231" alt="Screenshot 2026-10-05 193726" src="https://github.com/user-attachments/assets/969258e9-e56d-4381-b396-562be215fe9a" />
 > - Interface assignment / WAN-LAN configuration screen
-> - Kea DHCP configuration and active leases
+> - Kea DHCP configuration
 > - <img width="961" height="344" alt="Screenshot 2026-10-05 194317" src="https://github.com/user-attachments/assets/beaecb84-7f49-4489-a862-e9fae82e8337" />
 <img width="886" height="377" alt="Screenshot 2026-10-05 194305" src="https://github.com/user-attachments/assets/ece37613-108e-4ef2-bab9-c155f04f8969" />
 
